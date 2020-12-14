@@ -15,6 +15,7 @@
 
 locals {
   "env" = "prod"
+	"run" = "yes"
 }
 
 provider "google" {
