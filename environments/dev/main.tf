@@ -15,6 +15,7 @@
 
 locals {
   "env" = "dev"
+	"project" = "dev"
 }
 
 provider "google" {
